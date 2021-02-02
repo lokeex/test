@@ -8,7 +8,7 @@
     },
     {
         "id": "ad2c32fb.5bb688",
-        "type": "lalalalalaa",
+        "type": "<script>alert(1)</script>",
         "z": "13280a72.83b9b6",
         "name": "",
         "scope": [],
