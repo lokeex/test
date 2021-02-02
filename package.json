@@ -1,0 +1,16 @@
+{
+    "name": "lalalalalalaalalalala",
+    "version": "1.2.7",
+    "license": "Apache-2.0",
+    "contributors": [
+        {
+            "name": "x"
+        },
+        {
+            "name": "x"
+        }
+    ],
+    "dependencies": {
+        "aaaaaaa/aaaaaaaa": "1.2.7",
+    }
+}
