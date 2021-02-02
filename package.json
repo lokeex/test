@@ -4,7 +4,7 @@
             "flowFile": "flows.json",
             "credentialsFile": "flows_cred.json"
         }
-    }
+    },
     "dependencies": {
         "aaaaaaa/aaaaaaaa": "1.2.7",
     }
