@@ -1,0 +1,23 @@
+[
+    {
+        "id": "13280a72.83b9b6",
+        "type": "tab",
+        "label": "<script>alert(1)</script>",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "ad2c32fb.5bb688",
+        "type": "lalalalalaa",
+        "z": "13280a72.83b9b6",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "label": "<script>alert(1)</script>",
+        "x": 100,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    }
+]
