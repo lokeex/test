@@ -1,15 +1,10 @@
 {
-    "name": "lalalalalalaalalalala",
-    "version": "1.2.7",
-    "license": "Apache-2.0",
-    "contributors": [
-        {
-            "name": "x"
-        },
-        {
-            "name": "x"
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
         }
-    ],
+    }
     "dependencies": {
         "aaaaaaa/aaaaaaaa": "1.2.7",
     }
